@@ -14,7 +14,13 @@ public class studentPages {
         JLabel teacherLabel,goodL,badL;
         JCheckBox goodC,badC;
     }
+	
+	public static void mainPage(JFrame mainFrame){
+		JLabel mainLabel = new JLabel("سامانه جونی منیجمنت");
 
+		mainLabel.setBounds(500,500,200,40);
+		mainFrame.add(mainLabel);
+	}
     public static void unitSelect(JFrame mainFrame,int id){
         String units_arr[] = {"math","ap","physics"}/*store from DB*/;
         String teachers[] = {"rostami","minoofam","mahzoon"};
