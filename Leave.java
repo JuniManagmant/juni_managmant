@@ -1,14 +1,12 @@
-package com.company;
-
 public class Leave {
-/*
+
     public void student (int ID){
         //db.update
         //delete student's info(from current term table)
     }
 
     public void teacher (int ID, int duration){
-        private int leaveDaysTeacher = /* db.tchr.days.id(ID) ;
+        private int leaveDaysTeacher = /* db.tchr.days.id(ID) */;
         if((leaveDaysTeacher-duration)>0){
             leaveDaysTeacher-=duration;
             //db.update
@@ -18,7 +16,7 @@ public class Leave {
         }
     }
     public void employee (int ID, int duration){
-        private int leaveDaysEmployee = /* db.emp.days.id(ID) ;
+        private int leaveDaysEmployee = /* db.emp.days.id(ID) */;
         if((leaveDaysEmployee-duration)>0){
             leaveDaysEmployee-=duration;
             //db.update
@@ -27,5 +25,5 @@ public class Leave {
             //error exception
         }
     }
-    public */
 }
+
