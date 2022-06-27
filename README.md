@@ -6,19 +6,11 @@
 
 # درصد مشارکت
 
-
-[امیرمحمد شاهمرادی](https://github.com/am-shm)
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/34)
-
-<br>
-
-[کیارش فرجاد](https://github.com/kia-far)
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33)
-
-<br>
-
-[حاج آقا سینا دور اندیش](https://github.com/SinaDour)
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33)
+|     درصد مشارکت       |    نام و آدرس        |
+| ------------------------------------------- | ------------------------------------------------------------------------- |
+| [امیرمحمد شاهمرادی](https://github.com/am-shm) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/34) |
+| [کیارش فرجاد](https://github.com/kia-far)     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33) |
+| [حاج آقا سینا دور اندیش](https://github.com/SinaDour) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33) |
 
 
 # نماد جونی
