@@ -6,7 +6,7 @@
 
 # درصد مشارکت
 
-|          درصد مشارکت  |    نام و آدرس        |
+|        نام و آدرس    |     درصد مشارکت       |
 | ------------------------------------------- | ------------------------------------------------------------------------- |
 | [امیرمحمد شاهمرادی](https://github.com/am-shm) | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/34) |
 | [کیارش فرجاد](https://github.com/kia-far)     | ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33) |
